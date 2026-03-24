@@ -1,0 +1,4 @@
+Lab10.2 - Deployment with Vercel/Netlify
+
+This is a React Todo application deployed to production using Vercel. The project is built with Vite and configured for production with vite.config.ts and .env.production for environment variables. To run locally, install dependencies with npm install and start the development server with npm run dev. The production build can be created with npm run build, which outputs files to the dist folder. The project is deployed on Vercel at https://lab10task2.vercel.app
+. GitHub Actions CI/CD workflow is set up in .github/workflows/ci.yml to run tests on push or pull requests to the main branch and build the project only if tests pass. This ensures automated testing and production-ready deployment.
