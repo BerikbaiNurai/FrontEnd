@@ -1,0 +1,9 @@
+Lab 11.1: Expo Setup and Core Components
+
+Description: In this lav, a simple profile app was created using React Native and Expo. The app displays user information and includes a contact form.
+
+Features: Profile card with avatar, name, role and bio. Contact form with email, phone and message inputs. Form submission confirmation. Functional components with React Hooks.
+
+Technologies: React Native, Expo, TypeScript, useState Hook.
+
+Learning Outcomes: Creating reusable components. Handing user input. Managing state in React Native. Styling mobile UI.
