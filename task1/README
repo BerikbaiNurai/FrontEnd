@@ -1,0 +1,11 @@
+Lab 14.1
+
+Student
+Name: Berikbay Nuray 
+Date: 21.04.2026
+
+Overview: Implemented a performant contacts list using React Native FlatList to handle large datasets efficiently.
+
+Features: FlatList with virtualization (better than ScrollView) Optimized rendering using useCallback getItemLayout for fixed height performance Header and item separator Pull-to-refresh using RefreshControl Mock data generation
+
+Run: npm install npm start
